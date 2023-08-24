@@ -1,0 +1,24 @@
+.search-box input {
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  width: 100%;
+  padding: 15px;
+  padding-left: 50px;
+  color: #fff;
+}
+
+.search-box {
+  position: relative;
+}
+
+.search-box i {
+  color: #fff;
+  position: absolute;
+  left: 15px;
+  top: 20px;
+}
+
+input::-webkit-input-placeholder {
+  color: #fff;
+}

@@ -1,0 +1,12 @@
+.header {
+  padding-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(0, 9, 35);
+  color: #fff;
+  text-align: center;
+  width: 100%;
+}
+
+.header img {
+  height: 40px;
+}
